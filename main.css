@@ -1,0 +1,100 @@
+#headerDiv{
+	background: radial-gradient(#9982ff, #2e06e4);
+	text-align: center;
+}
+
+#logoImage{
+	vertical-align: middle;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+}
+
+a{
+	color: #5bd242;
+}
+
+body{
+	background-color: #e9e5ff;
+	
+}
+
+span a:hover { text-decoration:none;
+text-shadow: 0 0 2px #999;
+}
+
+#mainTitle {
+padding-top: 50px;
+font-size: 52px;
+font: 400 52px/0.5 'Courgette', Helvetica, sans-serif;
+margin-bottom: 38px;
+color: #fa002c;
+margin-left: 72px;
+}
+
+#subTitle {
+font-size: 20px;
+text-align: center;
+font: 400 28px/0.5 'Satisfy', Helvetica, sans-serif;
+margin-left: 346px;
+}
+
+
+#titleSection {
+	text-align: center;
+}
+
+
+#firstDiv{
+text-align: center;
+margin-top: 30px;
+margin-left: 64px;
+}
+
+#secondDiv{
+text-align: center;
+margin-top: 5px;
+margin-left: 64px;
+}
+
+.image1,.image2,.image3,.image4 {
+	width: 432px;
+height: 222px;
+border-radius: 3px;
+}
+
+
+.emailSection{
+	padding-top: 60px;
+}
+
+#emailInput{
+	border: 2px solid gray;
+border-radius: 2px;
+width: 250px;
+height: 34px;
+font-size: 20px;
+background-color: white;
+outline: none;
+
+}
+
+#signUpButton {
+width: 100px;
+height: 39px;
+outline: none;
+cursor: pointer;
+border: 2px solid gray;
+font-size: 14px;
+background: radial-gradient(#9982ff, #2e06e4);
+border-radius: 2px;
+}
+
+.footer{
+	position: fixed;
+	width: 100%;
+	height: 200px;
+	background-color: red;
+	text-align: left;
+	clear: both;
+}
